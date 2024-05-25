@@ -1,0 +1,28 @@
+O sistema Kanban é uma abordagem visual para gerenciamento de tarefas que organiza o trabalho em um quadro visual. Vamos detalhar o funcionamento descrito:
+
+Login/Cadastro:
+
+O usuário inicia o programa e se depara com a opção de fazer login, onde deve inserir seu nome de usuário e senha.
+Caso o usuário não tenha uma conta, há a opção de cadastrar um novo usuário, aonde o usuário apresenta seus dados para criacao de um novo usuário.
+
+
+Tela Inicial:
+
+Após o login bem-sucedido, o usuário é redirecionado para a tela inicial.
+Nessa tela, o usuário pode selecionar um projeto existente ou criar um novo projeto.
+Projeto Kanban:
+
+Ao selecionar ou criar um projeto, o usuário entra na tela específica desse projeto, que segue o modelo Kanban.
+O quadro Kanban geralmente é dividido em colunas representando diferentes fases do trabalho, como "A Fazer", "Em Andamento" e "Concluído".
+Tarefas:
+
+O usuário visualiza as tarefas do projeto no quadro Kanban, geralmente representadas por cartões.
+Cada cartão representa uma tarefa específica a ser realizada.
+Adicionar Tarefas:
+
+O usuário pode adicionar novas tarefas ao projeto diretamente na tela do Kanban.
+Isso pode envolver a criação de um novo cartão de tarefa e a atribuição de detalhes relevantes, como descrição, prazo, etc.
+Mover Tarefas:
+
+Para alterar a fase de uma tarefa (por exemplo, mover de "A Fazer" para "Em Andamento"), o usuário pode clicar no botão "Mover para a Próxima Fase".
+Esse botão geralmente está associado a cada cartão de tarefa na interface.
